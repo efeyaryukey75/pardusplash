@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Pardus Linux Splash Theme for KDE Plasma Desktop
+Name=Pardus-Splash
+X-KDE-PluginInfo-Author=efeyaryukey
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=muhammedfaruk@protonmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-Name=Pardus-Splash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/efeyaryukey75
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1213730
